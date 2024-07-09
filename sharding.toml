@@ -1,11 +1,14 @@
-[[shard]]
+[[shards]]
 name = "Delhi"
 idx = 0
+address = "localhost:8080"
 
-[[shard]]
+[[shards]]
 name = "Moscow"
 idx = 1
+address = "localhost:8081"
 
-[[shard]]
+[[shards]]
 name = "London"
 idx = 2
+address = "localhost:8082"
